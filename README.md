@@ -1,1 +1,6 @@
 # ImageDeep
+
+Requirements
+------------
+* Theano
+* Keras
