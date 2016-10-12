@@ -1,1 +1,1 @@
-# DeepSeg
+# ImageDeep
